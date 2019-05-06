@@ -1,0 +1,899 @@
+Script started on Thursday 25 April 2019 12:48:02 PM IST
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudo apt update
+[sudo] password for clab1: 
+[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Waiting for headers] [Waiting for headers] [Waiting for headers][0m
+                                                                    
+Hit:1 http://packages.microsoft.com/repos/vscode stable InRelease
+[33m
+                                                                    
+0% [Waiting for headers] [Waiting for headers][0m[33m
+0% [1 InRelease gpgv 3,182 B] [Waiting for headers] [Waiting for headers][0m
+                                                                         
+Get:2 http://security.ubuntu.com/ubuntu xenial-security InRelease [109 kB]
+[33m
+0% [1 InRelease gpgv 3,182 B] [Waiting for headers] [2 InRelease 13.4 kB/109 kB[0m[33m
+                                                                               
+0% [1 InRelease gpgv 3,182 B] [Waiting for headers][0m
+                                                   
+Hit:3 http://in.archive.ubuntu.com/ubuntu xenial InRelease
+[33m
+                                                   
+0% [1 InRelease gpgv 3,182 B][0m[33m
+                             
+0% [Waiting for headers][0m[33m
+0% [2 InRelease gpgv 109 kB] [Waiting for headers][0m
+                                                  
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates InRelease [109 kB]
+[33m
+0% [2 InRelease gpgv 109 kB] [4 InRelease 5,193 B/109 kB 5%][0m[33m
+                                                            
+0% [2 InRelease gpgv 109 kB][0m[33m
+                            
+0% [Waiting for headers][0m[33m
+0% [3 InRelease gpgv 247 kB] [Waiting for headers][0m[33m
+                                                  
+0% [Waiting for headers][0m[33m
+0% [4 InRelease gpgv 109 kB] [Waiting for headers][0m[33m
+                                                  
+0% [Waiting for headers][0m
+                        
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial-backports InRelease [107 kB]
+[33m
+0% [5 InRelease 8,089 B/107 kB 8%][0m[33m
+                                  
+0% [Working][0m[33m
+0% [5 InRelease gpgv 107 kB][0m[33m
+                            
+100% [Working][0m
+              
+Fetched 325 kB in 21s (15.5 kB/s)
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 4%
+
+Reading package lists... 4%
+
+Reading package lists... 8%
+
+Reading package lists... 8%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 28%
+
+Reading package lists... 33%
+
+Reading package lists... 33%
+
+Reading package lists... 56%
+
+Reading package lists... 56%
+
+Reading package lists... 66%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 74%
+
+Reading package lists... 74%
+
+Reading package lists... 77%
+
+Reading package lists... 77%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 89%
+
+Reading package lists... 89%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 1%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+463 packages can be upgraded. Run 'apt list --upgradable' to see them.
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudo apt install apache2
+[sudo] password for clab1: 
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  apache2-bin apache2-data apache2-utils libapr1 libaprutil1
+  libaprutil1-dbd-sqlite3 libaprutil1-ldap liblua5.1-0
+Suggested packages:
+  apache2-doc apache2-suexec-pristine | apache2-suexec-custom
+The following NEW packages will be installed:
+  apache2 apache2-bin apache2-data apache2-utils libapr1 libaprutil1
+  libaprutil1-dbd-sqlite3 libaprutil1-ldap liblua5.1-0
+0 upgraded, 9 newly installed, 0 to remove and 463 not upgraded.
+Need to get 1,541 kB of archives.
+After this operation, 6,373 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libapr1 amd64 1.5.2-3 [86.0 kB]
+[33m
+0% [1 libapr1 8,102 B/86.0 kB 9%][0m[33m
+                                 
+7% [Waiting for headers][0m
+                        
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1 amd64 1.5.4-1build1 [77.1 kB]
+[33m
+7% [2 libaprutil1 1,029 B/77.1 kB 1%][0m[33m
+                                     
+13% [Working][0m
+             
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1-dbd-sqlite3 amd64 1.5.4-1build1 [10.6 kB]
+[33m
+13% [3 libaprutil1-dbd-sqlite3 3,953 B/10.6 kB 37%][0m[33m
+                                                   
+16% [Working][0m
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1-ldap amd64 1.5.4-1build1 [8,720 B]
+[33m
+16% [4 libaprutil1-ldap 4,526 B/8,720 B 52%][0m[33m
+                                            
+18% [Working][0m
+             
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 liblua5.1-0 amd64 5.1.5-8ubuntu1 [102 kB]
+[33m
+19% [5 liblua5.1-0 4,074 B/102 kB 4%][0m[33m
+                                     
+26% [Working][0m
+             
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-bin amd64 2.4.18-2ubuntu3.10 [926 kB]
+[33m
+26% [6 apache2-bin 0 B/926 kB 0%][0m[33m
+31% [6 apache2-bin 95.2 kB/926 kB 10%][0m[33m
+                                      
+68% [6 apache2-bin 803 kB/926 kB 87%][0m[33m
+                                     
+76% [Working][0m
+             
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-utils amd64 2.4.18-2ubuntu3.10 [81.7 kB]
+[33m
+76% [7 apache2-utils 5,207 B/81.7 kB 6%][0m[33m
+                                        
+83% [Working][0m
+             
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-data all 2.4.18-2ubuntu3.10 [162 kB]
+[33m
+83% [8 apache2-data 5,403 B/162 kB 3%][0m[33m
+                                      
+93% [Working][0m
+             
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2 amd64 2.4.18-2ubuntu3.10 [86.6 kB]
+[33m
+93% [9 apache2 0 B/86.6 kB 0%][0m[33m
+                              
+100% [Working][0m
+              
+Fetched 1,541 kB in 21s (71.5 kB/s)
+
+7[0;23r8[1ASelecting previously unselected package libapr1:amd64.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 242932 files and directories currently installed.)
+Preparing to unpack .../libapr1_1.5.2-3_amd64.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  2%][49m[39m [##........................................................] 8Unpacking libapr1:amd64 (1.5.2-3) ...
+7[24;0f[42m[30mProgress: [  4%][49m[39m [###.......................................................] 87[24;0f[42m[30mProgress: [  6%][49m[39m [####......................................................] 8Selecting previously unselected package libaprutil1:amd64.
+Preparing to unpack .../libaprutil1_1.5.4-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [  8%][49m[39m [######....................................................] 8Unpacking libaprutil1:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 10%][49m[39m [#######...................................................] 87[24;0f[42m[30mProgress: [ 13%][49m[39m [########..................................................] 8Selecting previously unselected package libaprutil1-dbd-sqlite3:amd64.
+Preparing to unpack .../libaprutil1-dbd-sqlite3_1.5.4-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 15%][49m[39m [#########.................................................] 8Unpacking libaprutil1-dbd-sqlite3:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 17%][49m[39m [###########...............................................] 87[24;0f[42m[30mProgress: [ 19%][49m[39m [############..............................................] 8Selecting previously unselected package libaprutil1-ldap:amd64.
+Preparing to unpack .../libaprutil1-ldap_1.5.4-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 21%][49m[39m [#############.............................................] 8Unpacking libaprutil1-ldap:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 23%][49m[39m [##############............................................] 87[24;0f[42m[30mProgress: [ 26%][49m[39m [################..........................................] 8Selecting previously unselected package liblua5.1-0:amd64.
+Preparing to unpack .../liblua5.1-0_5.1.5-8ubuntu1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 28%][49m[39m [#################.........................................] 8Unpacking liblua5.1-0:amd64 (5.1.5-8ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 30%][49m[39m [##################........................................] 87[24;0f[42m[30mProgress: [ 32%][49m[39m [###################.......................................] 8Selecting previously unselected package apache2-bin.
+Preparing to unpack .../apache2-bin_2.4.18-2ubuntu3.10_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 34%][49m[39m [#####################.....................................] 8Unpacking apache2-bin (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 36%][49m[39m [######################....................................] 87[24;0f[42m[30mProgress: [ 39%][49m[39m [#######################...................................] 8Selecting previously unselected package apache2-utils.
+Preparing to unpack .../apache2-utils_2.4.18-2ubuntu3.10_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 41%][49m[39m [########################..................................] 8Unpacking apache2-utils (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [##########################................................] 87[24;0f[42m[30mProgress: [ 45%][49m[39m [###########################...............................] 8Selecting previously unselected package apache2-data.
+Preparing to unpack .../apache2-data_2.4.18-2ubuntu3.10_all.deb ...
+7[24;0f[42m[30mProgress: [ 47%][49m[39m [############################..............................] 8Unpacking apache2-data (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 50%][49m[39m [#############################.............................] 87[24;0f[42m[30mProgress: [ 52%][49m[39m [###############################...........................] 8Selecting previously unselected package apache2.
+Preparing to unpack .../apache2_2.4.18-2ubuntu3.10_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 54%][49m[39m [################################..........................] 8Unpacking apache2 (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 56%][49m[39m [#################################.........................] 87[24;0f[42m[30mProgress: [ 58%][49m[39m [###################################.......................] 8Processing triggers for libc-bin (2.23-0ubuntu10) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for ufw (0.35-0ubuntu2) ...
+Processing triggers for systemd (229-4ubuntu21.8) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+ureadahead will be reprofiled on next reboot
+Setting up libapr1:amd64 (1.5.2-3) ...
+7[24;0f[42m[30mProgress: [ 60%][49m[39m [####################################......................] 87[24;0f[42m[30mProgress: [ 63%][49m[39m [#####################################.....................] 8Setting up libaprutil1:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 65%][49m[39m [######################################....................] 87[24;0f[42m[30mProgress: [ 67%][49m[39m [########################################..................] 8Setting up libaprutil1-dbd-sqlite3:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 69%][49m[39m [#########################################.................] 87[24;0f[42m[30mProgress: [ 71%][49m[39m [##########################################................] 8Setting up libaprutil1-ldap:amd64 (1.5.4-1build1) ...
+7[24;0f[42m[30mProgress: [ 73%][49m[39m [###########################################...............] 87[24;0f[42m[30mProgress: [ 76%][49m[39m [#############################################.............] 8Setting up liblua5.1-0:amd64 (5.1.5-8ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 78%][49m[39m [##############################################............] 87[24;0f[42m[30mProgress: [ 80%][49m[39m [###############################################...........] 8Setting up apache2-bin (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 82%][49m[39m [################################################..........] 87[24;0f[42m[30mProgress: [ 84%][49m[39m [##################################################........] 8Setting up apache2-utils (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 86%][49m[39m [###################################################.......] 87[24;0f[42m[30mProgress: [ 89%][49m[39m [####################################################......] 8Setting up apache2-data (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 91%][49m[39m [#####################################################.....] 87[24;0f[42m[30mProgress: [ 93%][49m[39m [#######################################################...] 8Setting up apache2 (2.4.18-2ubuntu3.10) ...
+7[24;0f[42m[30mProgress: [ 95%][49m[39m [########################################################..] 8Enabling module mpm_event.
+Enabling module authz_core.
+Enabling module authz_host.
+Enabling module authn_core.
+Enabling module auth_basic.
+Enabling module access_compat.
+Enabling module authn_file.
+Enabling module authz_user.
+Enabling module alias.
+Enabling module dir.
+Enabling module autoindex.
+Enabling module env.
+Enabling module mime.
+Enabling module negotiation.
+Enabling module setenvif.
+Enabling module filter.
+Enabling module deflate.
+Enabling module status.
+Enabling conf charset.
+Enabling conf localized-error-pages.
+Enabling conf other-vhosts-access-log.
+Enabling conf security.
+Enabling conf serve-cgi-bin.
+Enabling site 000-default.
+7[24;0f[42m[30mProgress: [ 97%][49m[39m [#########################################################.] 8Processing triggers for libc-bin (2.23-0ubuntu10) ...
+Processing triggers for systemd (229-4ubuntu21.8) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+Processing triggers for ufw (0.35-0ubuntu2) ...
+
+7[0;24r8[1A[J]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudo ufw app list
+[sudo] password for clab1: 
+Available applications:
+  Apache
+  Apache Full
+  Apache Secure
+  CUPS
+  Nginx Full
+  Nginx HTTP
+  Nginx HTTPS
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudoufw[K[K[K ufw app info ''[K[K""W"W"W" "F"u" [A
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl"
+"
+l"[C
+ERROR: Could not find profile 'WWW Full'
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ cd [K
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ ls
+[0m[01;34mabhi,aju [0m                [01;32memp.txt[0m                perltask.txt  task2.sh
+add.pl                   [01;32mex[0m                     perl.txt      task3.txt
+[01;32ma.out[0m                    examples.desktop       [01;34mPictures[0m      task4(rsync).txt
+bubblesort.c             ex.c                   [01;32mprgm[0m          task4(scp).txt
+cal.sh                   fifo.c                 prgm2.c       task4(ssh).txt
+[01;34mcec[0m                      [01;35mFirefox_wallpaper.png[0m  prgm.c        task5.txt
+ceccs17d04.11.02.19.txt  ftpserver.txt          [01;34mPublic[0m        [01;35mtask6(1).jpg[0m
+ceccs17d04.11.03.19.txt  [01;34mhari[0m                   [01;32mq[0m             [01;35mtask6(2).jpg[0m
+ceccs17d04.25.02.19.txt  hello.c                [01;32mq1[0m            [01;35mtask6(3).jpg[0m
+client.c                 hello.pl               q1.c          [01;35mtask6(4).jpg[0m
+client.java              ifconfig.sh            q.c           tcp1.c
+[01;34mcs17d04[0m                  lamp.txt               s4d.txt       tcp2.c
+[01;34mcs232-master[0m             lex.yy.c               Server.c      tcp.c
+dequell.c                me.txt                 server.java   [01;34mTemplates[0m
+[01;34mDesktop[0m                  [01;34mMusic[0m                  sftp.txt      [01;34mtestenv[0m
+dev1.txt                 name.txt               singlell.c    [01;34mVideos[0m
+[01;34mDocuments[0m                [01;34mnew[0m                    ssh.txt
+[01;34mDownloads[0m                package.txt            task1.txt
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudo apt install mariadb-s 
+erver
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient20
+  libreadline5 libterm-readkey-perl mariadb-client-10.0
+  mariadb-client-core-10.0 mariadb-common mariadb-server-10.0
+  mariadb-server-core-10.0 mysql-common
+Suggested packages:
+  libmldbm-perl libnet-daemon-perl libsql-statement-perl
+  libipc-sharedcache-perl mailx mariadb-test tinyca
+The following NEW packages will be installed:
+  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient20
+  libreadline5 libterm-readkey-perl mariadb-client-10.0
+  mariadb-client-core-10.0 mariadb-common mariadb-server mariadb-server-10.0
+  mariadb-server-core-10.0 mysql-common
+0 upgraded, 14 newly installed, 0 to remove and 463 not upgraded.
+Need to get 16.3 MB of archives.
+After this operation, 146 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-common all 5.7.25-0ubuntu0.16.04.2 [15.5 kB]
+[33m
+0% [1 mysql-common 5,207 B/15.5 kB 34%][0m[33m
+                                       
+2% [Working][0m
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-common all 10.0.38-0ubuntu0.16.04.1 [15.7 kB]
+[33m
+2% [2 mariadb-common 1,030 B/15.7 kB 7%][0m[33m
+                                        
+3% [Working][0m
+            
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libdbi-perl amd64 1.634-1build1 [743 kB]
+[33m
+3% [3 libdbi-perl 1,109 B/743 kB 0%][0m[33m
+3% [3 libdbi-perl 95.2 kB/743 kB 13%][0m[33m
+                                     
+6% [3 libdbi-perl 706 kB/743 kB 95%][0m[33m
+                                    
+8% [Working][0m
+            
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libmysqlclient20 amd64 5.7.25-0ubuntu0.16.04.2 [813 kB]
+[33m
+8% [4 libmysqlclient20 1,110 B/813 kB 0%][0m[33m
+                                         
+13% [Working][0m
+             
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libdbd-mysql-perl amd64 4.033-1ubuntu0.1 [84.3 kB]
+[33m
+14% [5 libdbd-mysql-perl 8,269 B/84.3 kB 10%][0m[33m
+                                             
+15% [Working][0m
+             
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial/universe amd64 libterm-readkey-perl amd64 2.33-1build1 [27.2 kB]
+[33m
+15% [6 libterm-readkey-perl 3,141 B/27.2 kB 12%][0m[33m
+                                                
+17% [Working][0m
+             
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaio1 amd64 0.3.110-2 [6,356 B]
+[33m
+17% [7 libaio1 6,356 B/6,356 B 100%][0m
+                                    
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libreadline5 amd64 5.2+dfsg-3build1 [99.5 kB]
+[33m
+18% [8 libreadline5 9,299 B/99.5 kB 9%][0m[33m
+                                       
+20% [Working][0m
+             
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-client-core-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,286 kB]
+[33m
+20% [9 mariadb-client-core-10.0 0 B/4,286 kB 0%][0m[33m
+28% [9 mariadb-client-core-10.0 1,627 kB/4,286 kB 38%][0m[33m
+40% [9 mariadb-client-core-10.0 4,066 kB/4,286 kB 95%][0m[33m
+                                                      
+43% [Working][0m
+             
+Get:10 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-client-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [1,162 kB]
+[33m
+43% [10 mariadb-client-10.0 0 B/1,162 kB 0%][0m[33m
+                                            
+50% [Working][0m
+             
+Get:11 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server-core-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,859 kB]
+[33m
+50% [11 mariadb-server-core-10.0 0 B/4,859 kB 0%]                 1,201 kB/s 7s[0m[33m
+63% [11 mariadb-server-core-10.0 2,709 kB/4,859 kB 56%]           1,201 kB/s 5s[0m[33m
+75% [Working]                                                     1,201 kB/s 3s[0m
+                                                                               
+Get:12 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,160 kB]
+[33m
+75% [12 mariadb-server-10.0 1,448 B/4,160 kB 0%]                  1,201 kB/s 3s[0m[33m
+89% [12 mariadb-server-10.0 2,931 kB/4,160 kB 70%]                1,201 kB/s 1s[0m[33m
+97% [Working]                                                     1,201 kB/s 0s[0m
+                                                                               
+Get:13 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libhtml-template-perl all 2.95-2 [60.4 kB]
+[33m
+97% [13 libhtml-template-perl 25.1 kB/60.4 kB 41%]                1,201 kB/s 0s[0m[33m
+99% [Working]                                                     1,201 kB/s 0s[0m
+                                                                               
+Get:14 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server all 10.0.38-0ubuntu0.16.04.1 [13.1 kB]
+[33m
+99% [14 mariadb-server 4,752 B/13.1 kB 36%]                       1,201 kB/s 0s[0m[33m
+100% [Working]                                                    1,201 kB/s 0s[0m
+                                                                               
+Fetched 16.3 MB in 25s (635 kB/s)
+Preconfiguring packages ...
+
+7[0;23r8[1ASelecting previously unselected package mysql-common.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 243612 files and directories currently installed.)
+Preparing to unpack .../mysql-common_5.7.25-0ubuntu0.16.04.2_all.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  1%][49m[39m [#.........................................................] 8Unpacking mysql-common (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [  2%][49m[39m [##........................................................] 87[24;0f[42m[30mProgress: [  4%][49m[39m [###.......................................................] 8Selecting previously unselected package mariadb-common.
+Preparing to unpack .../mariadb-common_10.0.38-0ubuntu0.16.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [  5%][49m[39m [####......................................................] 8Unpacking mariadb-common (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [  7%][49m[39m [#####.....................................................] 87[24;0f[42m[30mProgress: [  8%][49m[39m [#####.....................................................] 8Selecting previously unselected package libdbi-perl.
+Preparing to unpack .../libdbi-perl_1.634-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [  9%][49m[39m [######....................................................] 8Unpacking libdbi-perl (1.634-1build1) ...
+7[24;0f[42m[30mProgress: [ 11%][49m[39m [#######...................................................] 87[24;0f[42m[30mProgress: [ 12%][49m[39m [########..................................................] 8Selecting previously unselected package libmysqlclient20:amd64.
+Preparing to unpack .../libmysqlclient20_5.7.25-0ubuntu0.16.04.2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 14%][49m[39m [#########.................................................] 8Unpacking libmysqlclient20:amd64 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [ 15%][49m[39m [#########.................................................] 87[24;0f[42m[30mProgress: [ 16%][49m[39m [##########................................................] 8Selecting previously unselected package libdbd-mysql-perl.
+Preparing to unpack .../libdbd-mysql-perl_4.033-1ubuntu0.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 18%][49m[39m [###########...............................................] 8Unpacking libdbd-mysql-perl (4.033-1ubuntu0.1) ...
+7[24;0f[42m[30mProgress: [ 19%][49m[39m [############..............................................] 87[24;0f[42m[30mProgress: [ 21%][49m[39m [#############.............................................] 8Selecting previously unselected package libterm-readkey-perl.
+Preparing to unpack .../libterm-readkey-perl_2.33-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 22%][49m[39m [##############............................................] 8Unpacking libterm-readkey-perl (2.33-1build1) ...
+7[24;0f[42m[30mProgress: [ 23%][49m[39m [##############............................................] 87[24;0f[42m[30mProgress: [ 25%][49m[39m [###############...........................................] 8Selecting previously unselected package libaio1:amd64.
+Preparing to unpack .../libaio1_0.3.110-2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 26%][49m[39m [################..........................................] 8Unpacking libaio1:amd64 (0.3.110-2) ...
+7[24;0f[42m[30mProgress: [ 28%][49m[39m [#################.........................................] 87[24;0f[42m[30mProgress: [ 29%][49m[39m [##################........................................] 8Selecting previously unselected package libreadline5:amd64.
+Preparing to unpack .../libreadline5_5.2+dfsg-3build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 30%][49m[39m [##################........................................] 8Unpacking libreadline5:amd64 (5.2+dfsg-3build1) ...
+7[24;0f[42m[30mProgress: [ 32%][49m[39m [###################.......................................] 87[24;0f[42m[30mProgress: [ 33%][49m[39m [####################......................................] 8Selecting previously unselected package mariadb-client-core-10.0.
+Preparing to unpack .../mariadb-client-core-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 35%][49m[39m [#####################.....................................] 8Unpacking mariadb-client-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 36%][49m[39m [######################....................................] 87[24;0f[42m[30mProgress: [ 38%][49m[39m [#######################...................................] 8Selecting previously unselected package mariadb-client-10.0.
+Preparing to unpack .../mariadb-client-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 39%][49m[39m [#######################...................................] 8Unpacking mariadb-client-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 40%][49m[39m [########################..................................] 87[24;0f[42m[30mProgress: [ 42%][49m[39m [#########################.................................] 8Selecting previously unselected package mariadb-server-core-10.0.
+Preparing to unpack .../mariadb-server-core-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [##########################................................] 8Unpacking mariadb-server-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 45%][49m[39m [###########################...............................] 87[24;0f[42m[30mProgress: [ 46%][49m[39m [###########################...............................] 8Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libc-bin (2.23-0ubuntu10) ...
+Setting up mysql-common (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [ 47%][49m[39m [############################..............................] 8update-alternatives: using /etc/mysql/my.cnf.fallback to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+7[24;0f[42m[30mProgress: [ 49%][49m[39m [#############################.............................] 8Setting up mariadb-common (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 50%][49m[39m [##############################............................] 8update-alternatives: using /etc/mysql/mariadb.cnf to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+7[24;0f[42m[30mProgress: [ 52%][49m[39m [###############################...........................] 8Selecting previously unselected package mariadb-server-10.0.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 243981 files and directories currently installed.)
+Preparing to unpack .../mariadb-server-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 53%][49m[39m [################################..........................] 8Unpacking mariadb-server-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 54%][49m[39m [################################..........................] 87[24;0f[42m[30mProgress: [ 56%][49m[39m [#################################.........................] 8Selecting previously unselected package libhtml-template-perl.
+Preparing to unpack .../libhtml-template-perl_2.95-2_all.deb ...
+7[24;0f[42m[30mProgress: [ 57%][49m[39m [##################################........................] 8Unpacking libhtml-template-perl (2.95-2) ...
+7[24;0f[42m[30mProgress: [ 59%][49m[39m [###################################.......................] 87[24;0f[42m[30mProgress: [ 60%][49m[39m [####################################......................] 8Selecting previously unselected package mariadb-server.
+Preparing to unpack .../mariadb-server_10.0.38-0ubuntu0.16.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [ 61%][49m[39m [####################################......................] 8Unpacking mariadb-server (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 63%][49m[39m [#####################################.....................] 87[24;0f[42m[30mProgress: [ 64%][49m[39m [######################################....................] 8Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for systemd (229-4ubuntu21.8) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+Setting up libdbi-perl (1.634-1build1) ...
+7[24;0f[42m[30mProgress: [ 66%][49m[39m [#######################################...................] 87[24;0f[42m[30mProgress: [ 67%][49m[39m [########################################..................] 8Setting up libmysqlclient20:amd64 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [ 69%][49m[39m [#########################################.................] 87[24;0f[42m[30mProgress: [ 70%][49m[39m [#########################################.................] 8Setting up libdbd-mysql-perl (4.033-1ubuntu0.1) ...
+7[24;0f[42m[30mProgress: [ 71%][49m[39m [##########################################................] 87[24;0f[42m[30mProgress: [ 73%][49m[39m [###########################################...............] 8Setting up libterm-readkey-perl (2.33-1build1) ...
+7[24;0f[42m[30mProgress: [ 74%][49m[39m [############################################..............] 87[24;0f[42m[30mProgress: [ 76%][49m[39m [#############################################.............] 8Setting up libaio1:amd64 (0.3.110-2) ...
+7[24;0f[42m[30mProgress: [ 77%][49m[39m [#############################################.............] 87[24;0f[42m[30mProgress: [ 78%][49m[39m [##############################################............] 8Setting up libreadline5:amd64 (5.2+dfsg-3build1) ...
+7[24;0f[42m[30mProgress: [ 80%][49m[39m [###############################################...........] 87[24;0f[42m[30mProgress: [ 81%][49m[39m [################################################..........] 8Setting up mariadb-client-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 83%][49m[39m [#################################################.........] 87[24;0f[42m[30mProgress: [ 84%][49m[39m [##################################################........] 8Setting up mariadb-client-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 85%][49m[39m [##################################################........] 87[24;0f[42m[30mProgress: [ 87%][49m[39m [###################################################.......] 8Setting up mariadb-server-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 88%][49m[39m [####################################################......] 87[24;0f[42m[30mProgress: [ 90%][49m[39m [#####################################################.....] 8Setting up mariadb-server-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 91%][49m[39m [######################################################....] 87[24;0f[42m[30mProgress: [ 92%][49m[39m [######################################################....] 8Setting up libhtml-template-perl (2.95-2) ...
+7[24;0f[42m[30mProgress: [ 94%][49m[39m [#######################################################...] 87[24;0f[42m[30mProgress: [ 95%][49m[39m [########################################################..] 8Setting up mariadb-server (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 97%][49m[39m [#########################################################.] 87[24;0f[42m[30mProgress: [ 98%][49m[39m [##########################################################] 8Processing triggers for libc-bin (2.23-0ubuntu10) ...
+Processing triggers for systemd (229-4ubuntu21.8) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+
+7[0;24r8[1A[J]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ sudo mysql_secure_installa 
+tion
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+OK, successfully used password, moving on...
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+You already have a root password set, so you can safely answer 'n'.
+
+Change the root password? [Y/n] n
+ ... skipping.
+
+By default, a MariaDB installation has an anonymous user, allowing anyone
+to log into MariaDB without having to have a user account created for
+them.  This is intended only for testing, and to make the installation
+go a bit smoother.  You should remove them before moving into a
+production environment.
+
+Remove anonymous users? [Y/n] n
+ ... skipping.
+
+Normally, root should only be allowed to connect from 'localhost'.  This
+ensures that someone cannot guess at the root password from the network.
+
+Disallow root login remotely? [Y/n] n
+ ... skipping.
+
+By default, MariaDB comes with a database named 'test' that anyone can
+access.  This is also intended only for testing, and should be removed
+before moving into a production environment.
+
+Remove test database and access to it? [Y/n] ^C
+Aborting!
+
+Cleaning up...
+]0;clab1@clab1-HP-Compaq-dc7900-Convertible-Minitower: ~[01;32mclab1@clab1-HP-Compaq-dc7900-Convertible-Minitower[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Monday 06 May 2019 01:54:03 PM IST
